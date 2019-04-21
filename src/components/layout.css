@@ -110,7 +110,7 @@ input,
 optgroup,
 select,
 textarea {
-  font: inherit;
+  
   margin: 0;
 }
 optgroup {
