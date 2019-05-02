@@ -36,6 +36,7 @@ const Layout2 = ({ children }) => (
                         float: `right`,
                     }}>
                         <ListLink to='/'>Home</ListLink>
+                        <ListLink to='/blog'>Blog</ListLink>
                         <ListLink to='/page-2'>Page 2</ListLink>
                         <ListLink to='/info/about'>About</ListLink>
                     </ul>

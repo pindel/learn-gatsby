@@ -1,5 +1,5 @@
 ---
-title: "Sameple Blog Post"
+title: "Making Cake"
 date: "2019-05-01"
 ---
 this is a sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post. 
