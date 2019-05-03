@@ -7,7 +7,7 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.3.23",
-    "gatsby-image": "^2.0.37",
+    "gatsby-image": "^2.0.41",
     "gatsby-plugin-manifest": "^2.0.27",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.12",
@@ -21,7 +21,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.0",
+    "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
     "styled-components": "^4.2.0",
     "typescript": "^3.4.3",
